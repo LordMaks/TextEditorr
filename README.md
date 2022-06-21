@@ -1,5 +1,4 @@
-# Evsiukov Eugene
-
+# Kovalenko Maxim
 ### Task
 
 * Light Text Editor
